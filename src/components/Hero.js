@@ -24,7 +24,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="h-[20rem] lg:h-[32rem]">
-        <img className="w-full h-full" src="assets/images/houses.png"/>
+        <img className="w-full h-full" src="assets/images/houses.png" alt="house"/>
       </div>
     </div>
   );
